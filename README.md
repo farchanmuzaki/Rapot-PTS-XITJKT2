@@ -1,5 +1,5 @@
 # Rapot-PTS-Gasal-XITJKT2
-Silahkan klik pada masing-masing nama Anda untuk mengunduh :
+Silahkan klik pada nama Anda untuk mendownload :
 1. [Adinda Rahma Alya.pdf](https://github.com/mashroomcode/Rapot-PTS-XITJKT2/files/12870452/Adinda.Rahma.Alya.pdf) 
 2. [Aji Ibnu Ar-Robi.pdf](https://github.com/mashroomcode/Rapot-PTS-XITJKT2/files/12870471/Aji.Ibnu.Ar-Robi.pdf) 
 3. [Alan Damar Saputra.pdf](https://github.com/mashroomcode/Rapot-PTS-XITJKT2/files/12870472/Alan.Damar.Saputra.pdf) 
